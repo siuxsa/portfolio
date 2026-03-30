@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Main page
+Allow: /index.html
+
+# SEO entry pages
+Allow: /service.html
+Allow: /bugbounty.html
+Allow: /contact.html
+
+
